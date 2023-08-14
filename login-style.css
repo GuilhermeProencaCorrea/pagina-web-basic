@@ -97,7 +97,11 @@ bury * {
     color: #14213d;
     background-color: #fca311;
     cursor: pointer;
-    box-shadow: 0px 10px 40px -12px #fca211bd;;
+    box-shadow: 0px 10px 40px -12px #fca2117e;
+}
+.btn-login:hover{
+    animation-duration: 2s;
+    box-shadow: 0px 10px 40px -12px #fca211bd;
 
 }
 @media only screen and (max-width: 950px){
